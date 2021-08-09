@@ -8,7 +8,7 @@ Tem por objetivo viabilizar a produção do **protótipo de ensino-aprendizado**
 ______
 
 # Observatório e Laboratório de produções multissemióticas
-*Indice*
+&ensp;&ensp; *Indice*
 
 ## 1. Nosso contexto
 - Por que criar um observatório?
@@ -32,31 +32,27 @@ ______
 
 ### Nosso laboratório de mídia
 -	**O que fazer?**
-> Mapas 
+> - Mapas 
 >
-> Infográficos
+> - Infográficos
 > 
-> Robôs: *Automação de alertas em redes sociais*
+> - Robôs: *Automação de alertas em redes sociais*
 > 
-> Machinima
+> - Machinima
 > 
-> Posts: *Memes. Vidding. Teasers. Posteres*...
+> - Posts: *Memes. Vidding. Teasers. Posteres*
 > 
-> Base de dados aberta 
+> - Base de dados aberta 
 > 
-> ...
 
 ### Como apresentar? 
 - **Jornalismos de dados**
-> Reportagens
+> - Reportagens
 > 
-> Podcast
-> 
-> ...
+> - Podcast
 
 - **Divulgação científica**
 - **Projetos culturaise e sociais**
 - **Projetos de intervenção**
-- ...
 
 ## 4. Avaliando e ampliando o projeto
