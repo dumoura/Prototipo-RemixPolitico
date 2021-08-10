@@ -42,8 +42,9 @@ ______
 > 
 > - Posts: *Memes. Vidding. Teasers. Posteres*
 > 
-> - Base de dados aberta 
+> - Base de dados aberta
 > 
+> - Monitor de atos públicos 
 
 ### Como apresentar? 
 - **Jornalismos de dados**
