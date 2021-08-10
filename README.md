@@ -49,10 +49,25 @@ ______
 - **Jornalismos de dados**
 > - Reportagens
 > 
+> - Notícias
+> 
 > - Podcast
+> 
+> - Comunicado de imprensa, boletim de imprensa ou *press release*
 
 - **Divulgação científica**
+> - Boletins
+> 
+> - Relatórios 
+> 
 - **Projetos culturaise e sociais**
-- **Projetos de intervenção**
+> - Eventos culturais: exposição, shows, festivias
+> 
+> - Intervenção Urbana
 
+- **Projetos de intervenção e organização civil**
+> - Notas de posicionameto
+> 
+> - Carta de sociedade civil 
+> 
 ## 4. Avaliando e ampliando o projeto
