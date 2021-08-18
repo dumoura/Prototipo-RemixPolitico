@@ -38,9 +38,9 @@ ______
 > 
 > - Robôs: *Automação de alertas em redes sociais*
 > 
-> - Machinima
+> - Portal de disseminação de dados
 > 
-> - Posts: *Memes. Vidding. Teasers. Posteres*
+> - Posts: *Memes. Vidding. Machinima. Teasers. Posteres*
 > 
 > - Base de dados aberta
 > 
