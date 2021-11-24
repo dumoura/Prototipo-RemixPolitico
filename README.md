@@ -5,6 +5,8 @@ Tem por objetivo viabilizar a produção do **protótipo de ensino-aprendizado**
 
 **Para saber mais** sobre o projeto e seus resultados, siga este repositório para mais atualizações.
 
+Acesse o [protótipo](https://cgscholar.com/creator/works/122475/versions/241317/export?utf8=%E2%9C%93&output_format=standard) com o desenho e orientações de implementação.
+
 ______
 
 # Observatório e Laboratório de produções multissemióticas
