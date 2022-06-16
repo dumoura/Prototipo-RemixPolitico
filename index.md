@@ -6,7 +6,7 @@ Tem por objetivo viabilizar a produção de protótipos de ensino-aprendizado.
 
 Para saber mais sobre o projeto e seus resultados:
 
-- Siga este repositório para mais atualizações.
+- Siga este [repositório](https://github.com/dumoura/Prototipo-RemixPolitico) para mais atualizações.
 - Acesse modulo de aprendizado e protótipo com o desenho e orientações de implementação - [CGScholar](https://cgscholar.com/creator/works/122475/versions/248783).
 
 ## Indice
