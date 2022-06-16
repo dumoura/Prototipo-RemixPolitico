@@ -1,6 +1,7 @@
 # Protótipo
 
 Este repositório faz parte de projeto de pesquisa intitulado **Sampling e Remix entre diferentes humores**.
+
 Tem por objetivo viabilizar a produção de protótipos de ensino-aprendizado.
 
 Para saber mais sobre o projeto e seus resultados:
