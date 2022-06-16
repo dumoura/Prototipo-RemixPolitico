@@ -1,37 +1,84 @@
-## Protótipo: Observatório e Laboratório de produções multissemióticas
+# Observatório e produções multissemióticas
 
-You can use the [editor on GitHub](https://github.com/dumoura/RemixPolitico-Scripts_YTPBr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este repositório faz parte de projeto de pesquisa intitulado **Sampling e Remix entre diferentes humores**.
+Tem por objetivo viabilizar a produção de protótipos de ensino-aprendizado.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para saber mais sobre o projeto e seus resultados: 
+- Siga este repositório para mais atualizações.
+- Acesse modulo de aprendizado e protótipo com o desenho e orientações de implementação - CGScholar.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Protótipo
 
 ```markdown
-Indice
+**Indice**
 
-# Header 1
-## Header 2
-### Header 3
+# 1. Nosso contexto
+- Por que criar um observatório?
+- O que já existe por aí?
+[Link]("url")
 
-- Bulleted
-- List
+# 2. Nosso foco
+- O que queremos observar?
+- Quais são nossas motivações?
+- Por meio de quais recursos tornaremos as informações publicas?
+[Link]("url")
 
-1. Numbered
-2. List
+# 3. Da observação ao público
 
-**Bold** and _Italic_ and `Code` text
+# Observatório e Laboratório de produções multissemióticas
+&ensp;&ensp; *Indice*
 
-[Link](url) and ![Image](src)
+## 1. Nosso contexto [Link]("url")
+- Por que criar um observatório?
+- O que já existe por aí? 
+
+## 2. Nosso foco [Link]("url")
+- O que queremos observar?
+- Quais são nossas motivações?
+- Por meio de quais recursos tornaremos as informações publicas?
+
+## 3. Da observação ao público [Link]("url")
+
+### Nossos dados
+- Que informações podemos levantar?
+- Onde buscar informações e dados?
+- Como levantar os dados?
+
+### Em análise e revisão
+- Como tratar os dados levantados?
+- Como explorar e visualizar os dados levantados?
+
+### Nosso laboratório de mídia
+-	**O que fazer?**
+> - Mapas 
+> - Infográficos
+> - Robôs: *Automação de alertas em redes sociais*
+> - Portal de disseminação de dados
+> - Posts: *Memes. Vidding. Machinima. Teasers. Posteres*
+> - Base de dados aberta
+> - Monitor de atos públicos 
+
+### Como apresentar? 
+- **Jornalismos de dados**
+> - Reportagens
+> - Notícias
+> - Podcast
+> - Comunicado de imprensa, boletim de imprensa ou *press release*
+
+- **Divulgação científica**
+> - Boletins
+> - Relatórios 
+
+- **Projetos culturaise e sociais**
+> - Eventos culturais: exposição, shows, festivias
+> - Intervenção Urbana
+
+- **Projetos de intervenção e organização civil**
+> - Notas de posicionameto
+> - Carta de sociedade civil 
+
+## 4. Avaliando e ampliando o projeto
+[Link]("url")
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dumoura/RemixPolitico-Scripts_YTPBr/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
