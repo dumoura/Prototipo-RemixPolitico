@@ -1,54 +1,36 @@
-# Observatório e produções multissemióticas
+# Protótipo
 
 Este repositório faz parte de projeto de pesquisa intitulado **Sampling e Remix entre diferentes humores**.
 Tem por objetivo viabilizar a produção de protótipos de ensino-aprendizado.
 
-Para saber mais sobre o projeto e seus resultados: 
+Para saber mais sobre o projeto e seus resultados:
+
 - Siga este repositório para mais atualizações.
-- Acesse modulo de aprendizado e protótipo com o desenho e orientações de implementação - CGScholar.
+- Acesse modulo de aprendizado e protótipo com o desenho e orientações de implementação - [CGScholar](https://cgscholar.com/creator/works/122475/versions/248783).
 
-## Protótipo
+## Indice
 
-```markdown
-**Indice**
-
-# 1. Nosso contexto
-- Por que criar um observatório?
-- O que já existe por aí?
-[Link]("url")
-
-# 2. Nosso foco
-- O que queremos observar?
-- Quais são nossas motivações?
-- Por meio de quais recursos tornaremos as informações publicas?
-[Link]("url")
-
-# 3. Da observação ao público
-
-# Observatório e Laboratório de produções multissemióticas
-&ensp;&ensp; *Indice*
-
-## 1. Nosso contexto [Link]("url")
+### 1. Nosso contexto [Link]("url")
 - Por que criar um observatório?
 - O que já existe por aí? 
 
-## 2. Nosso foco [Link]("url")
+### 2. Nosso foco [Link]("url")
 - O que queremos observar?
 - Quais são nossas motivações?
 - Por meio de quais recursos tornaremos as informações publicas?
 
-## 3. Da observação ao público [Link]("url")
+### 3. Da observação ao público [Link]("url")
 
-### Nossos dados
+#### Nossos dados
 - Que informações podemos levantar?
 - Onde buscar informações e dados?
 - Como levantar os dados?
 
-### Em análise e revisão
+#### Em análise e revisão
 - Como tratar os dados levantados?
 - Como explorar e visualizar os dados levantados?
 
-### Nosso laboratório de mídia
+#### Nosso laboratório de mídia
 -	**O que fazer?**
 > - Mapas 
 > - Infográficos
@@ -58,7 +40,7 @@ Para saber mais sobre o projeto e seus resultados:
 > - Base de dados aberta
 > - Monitor de atos públicos 
 
-### Como apresentar? 
+#### Como apresentar? 
 - **Jornalismos de dados**
 > - Reportagens
 > - Notícias
@@ -77,8 +59,7 @@ Para saber mais sobre o projeto e seus resultados:
 > - Notas de posicionameto
 > - Carta de sociedade civil 
 
-## 4. Avaliando e ampliando o projeto
-[Link]("url")
-```
+## 4. Avaliando e ampliando o projeto [Link]("url")
+
 
 
